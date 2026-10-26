@@ -201,7 +201,7 @@ TextDecorations="{Binding IsCompleted, Converter={StaticResource CompletedTextDe
 
 ## Deel 3 - MVVM CommunityToolkit
 - Installeer de [MVVM toolkit](https://learn.microsoft.com/nl-nl/dotnet/communitytoolkit/mvvm/#getting-started)
-> Voor versie 8.3.2 heb je de allerlaatste SDK van .NET 8 nodig. Gebruik een oudere versie indien nodig.
+> Voor versie 8.4.2 heb je de allerlaatste SDK van .NET 10 nodig. Gebruik een oudere versie indien nodig.
 
 - Gebruik het [ObservableProperty](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/generators/observableproperty)-attribuut in plaats van de *INotifyPropertyChanged* interface voor zowel het Model als het ViewModel
 - Vervang de bestaande *Commands* door gebruik te maken van het het [RelayCommand](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/generators/relaycommand)-attribuut
